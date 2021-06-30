@@ -10,7 +10,7 @@
 ---
 ![Image text](https://raw.githubusercontent.com/sysu19351146/EGNN-Deep-learning/main/img_for_readme/%E5%9B%BE%E7%89%871.png)
 
-
+![Image text](https://raw.githubusercontent.com/sysu19351146/EGNN-Deep-learning/main/img_for_readme/%E5%9B%BE%E7%89%872.png)
 
 
 
