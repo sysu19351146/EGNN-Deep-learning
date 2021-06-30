@@ -5,3 +5,7 @@ support文件夹存放的是用来做support的数据集
 pth1中放的是未使用中心裁剪训练的模型权重文件
 
 pth2中放的是使用了中心裁剪训练的模型权重文件
+
+data_loader.py 是数据集读取文件
+
+EGNN.py是主文件
