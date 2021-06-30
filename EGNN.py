@@ -3,13 +3,7 @@
 Created on Sun Jun 27 11:00:08 2021
 
 @author: 53412
-"""
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jun 27 09:40:17 2021
 
-@author: 53412
-"""
 
 
 
@@ -478,7 +472,7 @@ torch.backends.cudnn.benchmark = False
 
 process_type=2           #1表示未使用中心裁剪，2代表使用中心裁剪
 batch_size=8             #batch大小
-epoch=10                  #训练轮数
+epoch=0                  #训练轮数
 L=3                      #迭代轮数
 train_data,test_data,supprt_data=data_load(process_type)     #载入数据
 
