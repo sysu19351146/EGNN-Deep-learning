@@ -8,7 +8,7 @@
 
 结构框架
 ---
-![Image text](https://https://github.com/sysu19351146/EGNN-Deep-learning/img_for_readme/图片1.png)
+![Image text](https://raw.githubusercontent.com/sysu19351146/EGNN-Deep-learning/main/img_for_readme/%E5%9B%BE%E7%89%871.png)
 
 
 
