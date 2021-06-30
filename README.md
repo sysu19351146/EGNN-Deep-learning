@@ -33,16 +33,20 @@ pytorch版本
 
 * pth2中放的是使用了中心裁剪训练的模型权重文件
 
+* img_for_readme文件夹保存的是用来写readme的图片
+
 * fem.pth是预训练的权重
 
 * data_loader.py 是数据集读取文件
 
 * EGNN.py是主文件，运行时只需更改process_type变量名的值即可切换两种数据增强的测试结果
 
+ 
+
 参考文献
 ---
-* Edge-Labeling Graph Neural Network for Few-shot Learning CVPR, 2019
-* Augmented Multi-center Graph Convolutional Network for COVID-19 Diagnosis,IEEE Transactions on Industrial Informatics,2021
-* BSNet: Bi-Similarity Network for Few-shot Fine-grained Image Classification,IEEE TRANSACTIONS ON IMAGE PROCESSING,2021
+* Edge-Labeling Graph Neural Network for Few-shot Learning.  CVPR, 2019
+* Augmented Multi-center Graph Convolutional Network for COVID-19 Diagnosis. IEEE Transactions on Industrial Informatics,2021
+* BSNet: Bi-Similarity Network for Few-shot Fine-grained Image Classification. IEEE TRANSACTIONS ON IMAGE PROCESSING,2021
 
 
